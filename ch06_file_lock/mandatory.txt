@@ -1,0 +1,12 @@
+dbcreate
+file_lock
+file_lock.c
+mandatory.txt
+rdlock
+rdlock.c
+st.db
+student.h
+wrlock
+wrlock.c
+wrlockf
+wrlockf.c
